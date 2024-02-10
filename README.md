@@ -1,6 +1,6 @@
 # flutter_task_app_test
 
-A new Flutter project.
+Hello Everyone, this task app is made using Flutter Framework. It is basic todo app with crud operations but the reason why i am making it public because it is based on Bloc state management system and i want to tell you all that i understand bloc pattern and implementation in flutter. It only has basics of Flutter and Flutter Bloc. Thank you for reading.
 
 ## Getting Started
 
